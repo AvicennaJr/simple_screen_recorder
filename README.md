@@ -1,2 +1,2 @@
-# simple_screen_recorder-
+# Simple Screen Recorder
 A Screen Recorder made with Python
